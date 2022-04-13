@@ -18,7 +18,7 @@ The activity consists of:
 The readings are from a recent, excellent text in spatial data analysis.
 
 <center>
-![Plant 2ed 2018 cover](material/cover.jpg "Plant 2ed 2018")
+![Plant 2ed 2018 cover](material/cover.jpg)
 </center>
 
 Plant, R.E., 2018. Spatial Data Analysis in Ecology and Agriculture Using R, 2nd ed. CRC Press, Boca Raton. https://doi.org/10.1201/9781351189910
