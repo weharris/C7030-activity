@@ -44,10 +44,22 @@ We will read chapters 3 & 4 completing the code, including full solutions to the
 
 Plant, R.E., 2018. Spatial Data Analysis in Ecology and Agriculture Using R, 2nd ed. CRC Press, Boca Raton. https://doi.org/10.1201/9781351189910
 
-
+<br>
 
 ## 2) Meeting to discuss data exercise<a id='meeting'></a>
 
-## 3) [Data exercise]{#data}
+<br>
 
-## 4) [Present results]{#present}
+This will be a brief organisational meeting, possibly we can discuss this for 15 minutes at one of the HARUG meetings.
+
+<br>
+
+## 3) Data exercise<a id='data'></a>
+
+By arrangement, possibly 2 meetings will be required if we wish.
+
+<br>
+
+## 4) Present results<a id='present'></a>
+
+We can discuss this outcome.  An idea would be for each student to choose one of the chapters and summaris the major ideas in a short presentation, possibly going through some examples with code.
