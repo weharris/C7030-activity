@@ -26,7 +26,11 @@ The readings are from a recent, excellent text in spatial data analysis.
 
 We will read chapters 3 & 4 completing the code, including full solutions to the problems at the end of each chapter (R script required, Rmarkdown optional).  I also include pdfs of the front matter, and intro chapters 1 & 2, but these are optional.
 
- (right click and 'save as')
+Plant, R.E., 2018. Spatial Data Analysis in Ecology and Agriculture Using R, 2nd ed. CRC Press, Boca Raton. https://doi.org/10.1201/9781351189910
+
+<br>
+
+(right click and 'save as')
 
 <a href="https://github.com/weharris/C7046-activity/blob/main/material/00-fm.pdf" download> Front matter </a>
 
@@ -39,10 +43,6 @@ We will read chapters 3 & 4 completing the code, including full solutions to the
 <a href="https://github.com/weharris/C7046-activity/blob/main/material/04-ch04.pdf" download> Chapter 4 </a>
 
 
-
-<br>
-
-Plant, R.E., 2018. Spatial Data Analysis in Ecology and Agriculture Using R, 2nd ed. CRC Press, Boca Raton. https://doi.org/10.1201/9781351189910
 
 <br>
 
