@@ -50,7 +50,7 @@ Plant, R.E., 2018. Spatial Data Analysis in Ecology and Agriculture Using R, 2nd
 
 <br>
 
-This will be a brief organisational meeting, possibly we can discuss this for 15 minutes at one of the HARUG meetings.
+This will be a brief organisational meeting, possibly we can discuss this for 15 minutes at one of the HARUG meetings.  I suggest we do this Wed. 22-04-20. during the meeting 4-5pm (via Teams).
 
 <br>
 
@@ -62,4 +62,4 @@ By arrangement, possibly 2 meetings will be required if we wish.
 
 ## 4) Present results<a id='present'></a>
 
-We can discuss this outcome.  An idea would be for each student to choose one of the chapters and summaris the major ideas in a short presentation, possibly going through some examples with code.
+We can discuss this outcome.  An idea would be for each student to choose one of the chapters and summarize the major ideas in a short presentation, possibly going through some examples with code.
