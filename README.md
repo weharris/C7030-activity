@@ -19,7 +19,7 @@ The readings are from a recent, excellent text in spatial data analysis.
 
 <center>
 
-![Plant 2ed 2018 cover](https://github.com/weharris/C7046-activity/blob/main/material/cover.png?raw=true)
+![Plant 2ed 2018 cover](https://github.com/weharris/C7046-activity/blob/main/material/cover.png?raw=true|width=400px)
 
 </center>
 
