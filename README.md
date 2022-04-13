@@ -13,7 +13,7 @@ The activity consists of:
 4) [Present results](#present)
 
 
-## 1) Reading preparation{#reading}
+## 1) Reading preparation<a id='reading'></a>
 
 The readings are from a recent, excellent text in spatial data analysis.
 
@@ -46,8 +46,8 @@ Plant, R.E., 2018. Spatial Data Analysis in Ecology and Agriculture Using R, 2nd
 
 
 
-## 2) Meeting to discuss data exercise{#meeting}
+## 2) Meeting to discuss data exercise<a id='meeting'></a>
 
-## 3) Data exercise{#data}
+## 3) [Data exercise]{#data}
 
-## 4) Present results{#present}
+## 4) [Present results]{#present}
