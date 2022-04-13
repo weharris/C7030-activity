@@ -4,16 +4,16 @@ Ed Harris
 
 The activity consists of:
 
-1) [Reading preparation](#01-reading)
+1) [Reading preparation](#reading)
 
-2) [Meeting to discuss data exercise](#02-meeting)
+2) [Meeting to discuss data exercise](#meeting)
 
-3) [Data exercise](#03-data)
+3) [Data exercise](#data)
 
-4) [Present results](#04-present)
+4) [Present results](#present)
 
 
-## 1) Reading preparation{#01-reading}
+## 1) Reading preparation{#reading}
 
 The readings are from a recent, excellent text in spatial data analysis.
 
@@ -46,8 +46,8 @@ Plant, R.E., 2018. Spatial Data Analysis in Ecology and Agriculture Using R, 2nd
 
 
 
-## 2) Meeting to discuss data exercise{#02-meeting}
+## 2) Meeting to discuss data exercise{#meeting}
 
-## 3) Data exercise{#03-data}
+## 3) Data exercise{#data}
 
-## 4) Present results{#04-present}
+## 4) Present results{#present}
