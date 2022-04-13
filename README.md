@@ -26,15 +26,9 @@ The readings are from a recent, excellent text in spatial data analysis.
 
 We will read chapters 3 & 4 completing the code, including full solutions to the problems at the end of each chapter (R script required, Rmarkdown optional).  I also include pdfs of the front matter, and intro chapters 1 & 2, but these are optional.
 
-!(Front matter)[/material/00-fm.pdf]
-
-!(Front matter)[/material/01-ch01.pdf]
-
-!(Front matter)[https://github.com/weharris/C7046-activity/blob/main/material/02-ch02.pdf]
-
-!(Front matter)[]
-
-!(Front matter)[]
+<a download="00-fm.pdf" href="https://github.com/weharris/C7046-activity/blob/main/material/00-fm.pdf" title="Front matter">
+    <img alt="Front matter" src="https://github.com/weharris/C7046-activity/blob/main/material/00-fm.pdf">
+</a>
 
 
 
